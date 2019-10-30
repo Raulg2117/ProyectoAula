@@ -5,10 +5,10 @@
  */
 package controlador;
 
-/**
- *
- * @author Usuario
- */
-public class ControladorAula {
+import modelo.Aula;
+
+
+public class ControladorAula extends Conexion {
+    
     
 }

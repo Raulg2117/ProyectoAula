@@ -9,6 +9,6 @@ package controlador;
  *
  * @author Usuario
  */
-public class ControladorEmpleado {
+public class ControladorEmpleado extends Conexion{
     
 }
